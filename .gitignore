@@ -1,0 +1,13 @@
+
+# sync guard 临时文件 (jince_dashboard_sync_guard.py 生成)
+.last_synced
+_blob.json
+_head_sha.txt
+_new_commit.txt
+_push_b64.txt
+_tree.txt
+.tick_pushed
+NUL
+.tick_pushed
+NUL
+sites/
